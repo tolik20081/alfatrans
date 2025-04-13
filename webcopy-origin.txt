@@ -1,0 +1,1936 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\dalfes.com\npm\swiper@10\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\dalfes.com\npm\swiper@10\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\dalfes.com\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://dalfes.com/
+File Name: C:\Downloaded Web Sites\dalfes.com\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/calculator/
+File Name: C:\Downloaded Web Sites\dalfes.com\calculator\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/comments/feed/
+File Name: C:\Downloaded Web Sites\dalfes.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dalfes.com/feed/
+File Name: C:\Downloaded Web Sites\dalfes.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dalfes.com/img/africa.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\africa.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/australia.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\australia.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/canada.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\img\canada.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/img/egypt.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\egypt.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/europe.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\europe.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/airplane.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\airplane.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/auto.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\auto.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/check-blue.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\check-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/ckeck.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\ckeck.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/container.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\container.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/dot.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\dot.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/hero-bg-1.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\hero-bg-1.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/hero-bg-2.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\hero-bg-2.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/hero-bg-3.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\hero-bg-3.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/hero-bg-4.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\hero-bg-4.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/icon-f.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\icon-f.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/mob-1.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\mob-1.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/mob-2.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\mob-2.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/mob-3.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\mob-3.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/mob-4.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\mob-4.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/s-line.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\s-line.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-1.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-2.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-2.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-3.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-3.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-4.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-4.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-5.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-5.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-6.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-6.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-7.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-7.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-8.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-8.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/serv-9.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\serv-9.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/ship.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\ship.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/sopr.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\sopr.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/stat-bg.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\stat-bg.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/img/hero/step-1.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\step-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/step-2.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\step-2.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/step-3.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\step-3.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/step-4.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\step-4.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/strah.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\strah.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/hero/why-1.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-2.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-2.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-3.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-3.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-4.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-4.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-5.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-5.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-6.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-6.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-7.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-7.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/why-8.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\why-8.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/hero/zd.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\hero\zd.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/india.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\india.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/indoneziya.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\indoneziya.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/iran.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\iran.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/japan.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\japan.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/kitay.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\kitay.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/malasiya.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\malasiya.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/oae.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\oae.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/pakistan.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\pakistan.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/saudovskaya-aravia.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\saudovskaya-aravia.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/south-amerika.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\south-amerika.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/img/tailand.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\img\tailand.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/img/turkish.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\turkish.png
+Content Type: image/png
+
+Uri: https://dalfes.com/img/vietnam.png
+File Name: C:\Downloaded Web Sites\dalfes.com\img\vietnam.png
+Content Type: image/png
+
+Uri: https://dalfes.com/kontakty/
+File Name: C:\Downloaded Web Sites\dalfes.com\kontakty\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-bahrejna/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-bahrejna\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-egipta/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-egipta\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-evropy/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-evropy\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-indii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-indii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-kanady/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-kanady\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-kitaya/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-kitaya\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-malajzii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-malajzii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-oae/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-oae\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-saudovskoj-aravii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-saudovskoj-aravii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-tailanda/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-tailanda\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-turczii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-turczii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/dostavka-gruzov-iz-vetnama/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\dostavka-gruzov-iz-vetnama\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/gruzoperevozki-iz-afriki/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\gruzoperevozki-iz-afriki\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/gruzoperevozki-iz-avstralii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\gruzoperevozki-iz-avstralii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/gruzoperevozki-iz-indonezii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\gruzoperevozki-iz-indonezii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/gruzoperevozki-iz-irana/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\gruzoperevozki-iz-irana\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/gruzoperevozki-iz-yaponii/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\gruzoperevozki-iz-yaponii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/gruzoperevozki-iz-yuzhnoj-ameriki/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\gruzoperevozki-iz-yuzhnoj-ameriki\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/mezhdunarodnye-napravleniya/perevozka-iz-pakistana/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\mezhdunarodnye-napravleniya\perevozka-iz-pakistana\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/napravleniya-po-rf/gruzoperevozki-iz-korsakova/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\napravleniya-po-rf\gruzoperevozki-iz-korsakova\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/napravleniya-po-rf/gruzoperevozki-iz-magadana/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\napravleniya-po-rf\gruzoperevozki-iz-magadana\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/napravleniya-po-rf/gruzoperevozki-iz-novorossiyska/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\napravleniya-po-rf\gruzoperevozki-iz-novorossiyska\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/napravleniya-po-rf/gruzoperevozki-iz-petropavlovska-kamchatskogo/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\napravleniya-po-rf\gruzoperevozki-iz-petropavlovska-kamchatskogo\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/napravleniya-po-rf/gruzoperevozki-iz-sankt-peterburga/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\napravleniya-po-rf\gruzoperevozki-iz-sankt-peterburga\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/napravleniya/napravleniya-po-rf/gruzoperevozki-iz-vladivostoka/
+File Name: C:\Downloaded Web Sites\dalfes.com\napravleniya\napravleniya-po-rf\gruzoperevozki-iz-vladivostoka\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/o-kompanii/
+File Name: C:\Downloaded Web Sites\dalfes.com\o-kompanii\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\dalfes.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\dalfes.com\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dalfes.com/tarify/
+File Name: C:\Downloaded Web Sites\dalfes.com\tarify\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/dostavka-sbornyh-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\dostavka-sbornyh-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/dostavka-strojmaterialov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\dostavka-strojmaterialov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-dorozhnoj-tehniki/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-dorozhnoj-tehniki\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-ekskavatorov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-ekskavatorov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-hrupkih-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-hrupkih-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-kranov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-kranov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-negabaritnyh-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-negabaritnyh-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-oborudovaniya/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-oborudovaniya\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-opasnyh-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-opasnyh-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-selhoztehniki/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-selhoztehniki\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-skoroportyashhihsya-produktov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-skoroportyashhihsya-produktov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-tehniki/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-tehniki\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/tipy-gruzov/perevozka-traktorov/
+File Name: C:\Downloaded Web Sites\dalfes.com\tipy-gruzov\perevozka-traktorov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/autsorsing-logistiki-dostavki-i-perevozok/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\autsorsing-logistiki-dostavki-i-perevozok\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/autsorsing-ved/konsolidacziya-gruza/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\autsorsing-ved\konsolidacziya-gruza\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/autsorsing-ved/markirovka-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\autsorsing-ved\markirovka-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/autsorsing-ved/sertifikacziya-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\autsorsing-ved\sertifikacziya-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/ekspedirovanie-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\ekspedirovanie-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/ekspedirovanie-v-portu/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\ekspedirovanie-v-portu\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/finansovye/dostavka-s-oplatoj-postavshhiku/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\finansovye\dostavka-s-oplatoj-postavshhiku\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/finansovye/dostavka-s-vykupom-tovara/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\finansovye\dostavka-s-vykupom-tovara\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/finansovye/strahovanie-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\finansovye\strahovanie-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/finansovye/zakryvayushhie-dokumenty-na-perevozku/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\finansovye\zakryvayushhie-dokumenty-na-perevozku\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/mezhdunarodnoe-ekspedirovanie/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\mezhdunarodnoe-ekspedirovanie\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/tamozhennoe-oformlenie/oformlenie-tamozhennogo-tranzita/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\tamozhennoe-oformlenie\oformlenie-tamozhennogo-tranzita\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/tamozhennoe-oformlenie/uslugi-tamozhennogo-brokera/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\tamozhennoe-oformlenie\uslugi-tamozhennogo-brokera\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/uslugi/zheleznodorozhnoe-ekspedirovanie/
+File Name: C:\Downloaded Web Sites\dalfes.com\uslugi\zheleznodorozhnoe-ekspedirovanie\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/vidy-perevozok/avtomobilnye-perevozki-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\vidy-perevozok\avtomobilnye-perevozki-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/vidy-perevozok/konteynernye-perevozki-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\vidy-perevozok\konteynernye-perevozki-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/vidy-perevozok/morskie-perevozki-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\vidy-perevozok\morskie-perevozki-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/vidy-perevozok/multimodalnye-perevozki-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\vidy-perevozok\multimodalnye-perevozki-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/vidy-perevozok/zheleznodorozhnye-perevozki-gruzov/
+File Name: C:\Downloaded Web Sites\dalfes.com\vidy-perevozok\zheleznodorozhnye-perevozki-gruzov\index.htm
+Content Type: text/html
+
+Uri: https://dalfes.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=4e06d1a7
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\n2.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=4e06d1a7
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=4e06d1a7
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider.min.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=4e06d1a7
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Slider\SliderType\Simple\Assets\dist\ss-simple.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=4e06d1a7
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Widget\Arrow\ArrowImage\Assets\dist\w-arrow-image.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=4e06d1a7
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Widget\Bullet\Assets\dist\w-bullet.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\wpcf7-redirect\build\css\wpcf7-redirect-frontend.min.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\plugins\wpcf7-redirect\build\js\wpcf7r-fe.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/themes/astra-child/fonts/DelaGothicOne-Regular.eot
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra-child\fonts\DelaGothicOne-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dalfes.com/wp-content/themes/astra-child/fonts/DelaGothicOne-Regular.eot?
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra-child\fonts\DelaGothicOne-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dalfes.com/wp-content/themes/astra-child/fonts/DelaGothicOne-Regular.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra-child\fonts\DelaGothicOne-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://dalfes.com/wp-content/themes/astra-child/fonts/DelaGothicOne-Regular.woff
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra-child\fonts\DelaGothicOne-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://dalfes.com/wp-content/themes/astra-child/fonts/DelaGothicOne-Regular.woff2
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra-child\fonts\DelaGothicOne-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://dalfes.com/wp-content/themes/astra-child/style.css?ver=1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra-child\style.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/themes/astra/app.js
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\app.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7-main.min.css?ver=4.3.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\css\minified\compatibility\contact-form-7-main.min.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.3.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/1_shipping.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\1_shipping.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/28.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\28.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/2_train.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\2_train.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/3_auto.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\3_auto.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/4_airplane.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\4_airplane.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/5_train_and_airplane.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\5_train_and_airplane.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/corob.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\corob.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/global.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\global.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/list.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\list.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/manager.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\manager.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/images/icons/st-bg.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\images\icons\st-bg.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.3.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/themes/astra/assets/js/unminified/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\assets\js\unminified\jquery.maskedinput.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-content/themes/astra/style.css
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\style-1.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/themes/astra/style.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\themes\astra\style.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/AdobeStock_315664059-1-scaled-2-1-1.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\AdobeStock_315664059-1-scaled-2-1-1.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/avia.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\avia.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/avto.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\avto.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/download.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\download.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/edit.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\edit.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/Frame-32.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\Frame-32.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/jctransnet_large-102.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\jctransnet_large-102.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/Mask-group.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\Mask-group.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/novoros.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\novoros.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/partner3-color.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\partner3-color.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/phone.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/photo.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\photo.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/pitetr.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\pitetr.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/Rectangle-71.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\Rectangle-71.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/ship.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\ship.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/soprovojdenie.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\soprovojdenie.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/strah.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\strah.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/tild6335-6366-4564-a.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\tild6335-6366-4564-a.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/train.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\train.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/unnamed-file.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\unnamed-file.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/Vector-1.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\Vector-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/Vector-2.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\Vector-2.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/Vector.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/vladik.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\vladik.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/07/vostok.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\07\vostok.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/ПОРТОВЫЕ-СТАВКИ-ПОРТ-ВОСТОЧНЫЙ.docx
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\ПОРТОВЫЕ-СТАВКИ-ПОРТ-ВОСТОЧНЫЙ.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/ПОРТОВЫЕ-ТАРИФЫ-ПОРТ-САНКТ-ПЕТЕРБУРГ.docx
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\ПОРТОВЫЕ-ТАРИФЫ-ПОРТ-САНКТ-ПЕТЕРБУРГ.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/Портовые-ставки-Новороссийск.docx
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\Портовые-ставки-Новороссийск.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/ТАРИФНОЕ-ПРИЛОЖЕНИЕ-Торговый-порт-Владивосток.docx
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\ТАРИФНОЕ-ПРИЛОЖЕНИЕ-Торговый-порт-Владивосток.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/document-download-1.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\document-download-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/edit.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\edit.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/Group-171.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\Group-171.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/Group-172.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\Group-172.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/logo-header.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\logo-header.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/phone.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/08/pin-1.svg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\08\pin-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dalfes.com/wp-content/uploads/2023/09/dalfes-ico-270-150x150.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\09\dalfes-ico-270-150x150.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/09/dalfes-ico-270.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\09\dalfes-ico-270.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/09/portfolio1-scaled.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\09\portfolio1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2023/09/portfolio2.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\09\portfolio2.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/09/portfolio3.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\09\portfolio3.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2023/09/portfolio4.png
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2023\09\portfolio4.png
+Content Type: image/png
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/avtomobilnye-perevozki-gruzov.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\avtomobilnye-perevozki-gruzov.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/container-shipping-pic.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\container-shipping-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/iz-vladivostoka.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\iz-vladivostoka.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/korsakov.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\korsakov.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/magadan.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\magadan.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/morskie-perevozki-gruzov.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\morskie-perevozki-gruzov.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/multimodalnye-perevozki-gruzov.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\multimodalnye-perevozki-gruzov.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/novorossiysk.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\novorossiysk.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/petropavlovsk-kamchatskiy.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\petropavlovsk-kamchatskiy.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/piter.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\piter.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/04/zhd-perevozki.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\04\zhd-perevozki.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/06.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\06.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/3603e94a-e104-4140-8c91-c7d92904bba7.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\3603e94a-e104-4140-8c91-c7d92904bba7.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/7ff8083f.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\7ff8083f.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/canada.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\canada.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/dostavka-sbornih-gruzov.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\dostavka-sbornih-gruzov.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/gorod-mumbaj.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\gorod-mumbaj.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/gruzy-tyanutsya-k-yugu_1000_cd5.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\gruzy-tyanutsya-k-yugu_1000_cd5.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/hoshimin-dostoprimechatelnosti.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\hoshimin-dostoprimechatelnosti.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/hrupkie-gruzy.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\hrupkie-gruzy.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/image1170x530cropped.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\image1170x530cropped.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/jakarta-skyline-misty-morning-drone-footage-087330082_prevstill-scaled.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\jakarta-skyline-misty-morning-drone-footage-087330082_prevstill-scaled.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/japan.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\japan.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/konsolidachiya-gruza.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\konsolidachiya-gruza.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/main___berlin_za_odin_deny___shutterstock_629888693.kodaviq8ieo0.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\main___berlin_za_odin_deny___shutterstock_629888693.kodaviq8ieo0.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/markirovka-gruza.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\markirovka-gruza.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/ne-gabarit.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\ne-gabarit.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/oborudovanie.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\oborudovanie.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/opascnie-gruzy.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\opascnie-gruzy.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/pakistan.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\pakistan.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/perevozka-ekskavatorov.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\perevozka-ekskavatorov.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/perevozka-kranov.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\perevozka-kranov.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/perevozka-selhoztechniki.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\perevozka-selhoztechniki.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/perevozka-technika.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\perevozka-technika.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/perevozka-techniki.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\perevozka-techniki.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/perevozka-traktorov.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\perevozka-traktorov.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/rio-de-zhaneyro.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\rio-de-zhaneyro.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/s-oplatoy-postavshiky.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\s-oplatoy-postavshiky.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/s-vikupom.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\s-vikupom.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/saudovskaya-araviya.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\saudovskaya-araviya.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/scoroport.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\scoroport.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/sertificatchiya-gruzox.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\sertificatchiya-gruzox.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/strahovanie-gruzov.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\strahovanie-gruzov.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/stroimaterials.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\stroimaterials.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/sydney.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\sydney.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/tailand.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\tailand.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/tam-broker.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\tam-broker.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/tamochenny-tranzit.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\tamochenny-tranzit.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/turkey.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\turkey.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/05/zakryvaushie-dokomenty.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\05\zakryvaushie-dokomenty.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/07/mezhdunarodnye-perevozki.jpg
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\07\mezhdunarodnye-perevozki.jpg
+Content Type: image/jpeg
+
+Uri: https://dalfes.com/wp-content/uploads/2024/10/autsors.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\10\autsors.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/10/mezd-per.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\10\mezd-per.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/10/port.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\10\port.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-content/uploads/2024/10/zd.webp
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-content\uploads\2024\10\zd.webp
+Content Type: image/webp
+
+Uri: https://dalfes.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://dalfes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://dalfes.com/wp-json/
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fcalculator%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-118
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fcalculator%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-119
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fkontakty%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-120
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fkontakty%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-121
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-bahrejna%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-bahrejna%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-egipta%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-egipta%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-evropy%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-evropy%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-indii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-indii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-kanady%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-kanady%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-kitaya%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-kitaya%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-malajzii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-malajzii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-oae%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-oae%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-saudovskoj-aravii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-saudovskoj-aravii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-tailanda%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-tailanda%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-turczii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-turczii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-vetnama%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fdostavka-gruzov-iz-vetnama%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-afriki%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-afriki%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-avstralii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-avstralii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-indonezii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-indonezii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-irana%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-irana%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-yaponii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-yaponii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-yuzhnoj-ameriki%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fgruzoperevozki-iz-yuzhnoj-ameriki%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fperevozka-iz-pakistana%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fmezhdunarodnye-napravleniya%2Fperevozka-iz-pakistana%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-korsakova%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-korsakova%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-magadana%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-magadana%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-novorossiyska%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-novorossiyska%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-petropavlovska-kamchatskogo%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-petropavlovska-kamchatskogo%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-sankt-peterburga%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-sankt-peterburga%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-vladivostoka%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fnapravleniya%2Fnapravleniya-po-rf%2Fgruzoperevozki-iz-vladivostoka%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fo-kompanii%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-114
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fo-kompanii%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-115
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-122
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-123
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftarify%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-116
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftarify%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-117
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fdostavka-sbornyh-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fdostavka-sbornyh-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fdostavka-strojmaterialov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fdostavka-strojmaterialov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-dorozhnoj-tehniki%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-dorozhnoj-tehniki%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-ekskavatorov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-ekskavatorov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-hrupkih-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-hrupkih-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-kranov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-kranov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-negabaritnyh-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-negabaritnyh-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-oborudovaniya%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-oborudovaniya%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-selhoztehniki%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-selhoztehniki%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-skoroportyashhihsya-produktov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-skoroportyashhihsya-produktov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-tehniki%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-tehniki%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-traktorov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Ftipy-gruzov%2Fperevozka-traktorov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-logistiki-dostavki-i-perevozok%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-112
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-logistiki-dostavki-i-perevozok%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-113
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-ved%2Fkonsolidacziya-gruza%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-102
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-ved%2Fkonsolidacziya-gruza%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-103
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-ved%2Fmarkirovka-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-100
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-ved%2Fmarkirovka-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-101
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-ved%2Fsertifikacziya-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-98
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fautsorsing-ved%2Fsertifikacziya-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-99
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fekspedirovanie-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-104
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fekspedirovanie-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-105
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fekspedirovanie-v-portu%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-110
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fekspedirovanie-v-portu%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-111
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fdostavka-s-oplatoj-postavshhiku%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-92
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fdostavka-s-oplatoj-postavshhiku%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-93
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fdostavka-s-vykupom-tovara%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-90
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fdostavka-s-vykupom-tovara%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-91
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fstrahovanie-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-94
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fstrahovanie-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-95
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fzakryvayushhie-dokumenty-na-perevozku%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-96
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ffinansovye%2Fzakryvayushhie-dokumenty-na-perevozku%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-97
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fmezhdunarodnoe-ekspedirovanie%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-108
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fmezhdunarodnoe-ekspedirovanie%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-109
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ftamozhennoe-oformlenie%2Foformlenie-tamozhennogo-tranzita%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ftamozhennoe-oformlenie%2Foformlenie-tamozhennogo-tranzita%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ftamozhennoe-oformlenie%2Fuslugi-tamozhennogo-brokera%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Ftamozhennoe-oformlenie%2Fuslugi-tamozhennogo-brokera%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fzheleznodorozhnoe-ekspedirovanie%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-106
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fuslugi%2Fzheleznodorozhnoe-ekspedirovanie%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-107
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Favtomobilnye-perevozki-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Favtomobilnye-perevozki-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fkonteynernye-perevozki-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fkonteynernye-perevozki-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fmorskie-perevozki-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fmorskie-perevozki-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fmultimodalnye-perevozki-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fmultimodalnye-perevozki-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fzheleznodorozhnye-perevozki-gruzov%2F
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdalfes.com%2Fvidy-perevozok%2Fzheleznodorozhnye-perevozki-gruzov%2F&format=xml
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1003
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1003
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1007
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1007
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1011
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1011
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1015
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1015
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1022
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1022
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1029
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1029
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1033
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1033
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1037
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1037
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1049
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1049
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1110
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1110
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1167
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1167
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1337
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1337
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1512
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1512
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1518
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1518
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1521
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1521
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1526
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1526
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/1530
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\1530
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/271
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\271
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/670
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\670
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/672
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\672
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/710
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\710
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/717
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\717
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/721
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\721
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/725
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\725
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/729
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\729
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/739
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\739
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/743
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\743
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/747
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\747
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/753
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\753
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/757
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\757
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/761
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\761
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/765
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\765
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/773
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\773
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/778
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\778
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/784
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\784
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/795
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\795
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/800
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\800
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/807
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\807
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/814
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\814
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/821
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\821
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/826
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\826
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/877
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\877
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/886
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\886
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/893
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\893
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/900
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\900
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/904
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\904
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/908
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\908
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/912
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\912
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/920
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\920
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/939
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\939
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/945
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\945
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/949
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\949
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/954
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\954
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/959
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\959
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/963
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\963
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/967
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\967
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/971
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\971
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/975
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\975
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/979
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\979
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/983
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\983
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/987
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\987
+Content Type: application/json
+
+Uri: https://dalfes.com/wp-json/wp/v2/pages/993
+File Name: C:\Downloaded Web Sites\dalfes.com\wp-json\wp\v2\pages\993
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\dalfes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?display=swap&family=Montserrat:300%2C400%2C300%2C400%2C300%2C400
+File Name: C:\Downloaded Web Sites\dalfes.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?display=swap&family=Montserrat:300%2C400%2C300%2C400%2C300%2C400|Roboto:300%2C400
+File Name: C:\Downloaded Web Sites\dalfes.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inter:400%2C600|Plus+Jakarta+Sans:600&display=fallback&ver=4.3.1
+File Name: C:\Downloaded Web Sites\dalfes.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dalfes.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/53937568
+File Name: C:\Downloaded Web Sites\dalfes.com\watch\53937568
+Content Type: image/gif
+
+Uri: https://unpkg.com/imask@7.6.1/dist/imask.js
+File Name: C:\Downloaded Web Sites\dalfes.com\imask@7.6.1\dist\imask.js
+Content Type: text/javascript
+
+Uri: https://use.fontawesome.com/7f48fae453.js
+File Name: C:\Downloaded Web Sites\dalfes.com\7f48fae453.js
+Content Type: text/javascript
+
